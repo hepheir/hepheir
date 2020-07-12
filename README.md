@@ -19,17 +19,7 @@ Hello :)
 
 ---
 
-<!-- 논문 스타일로 가자 -->
-## <p style="text-align:center;"> 김동주 </p>
-<p style="text-align:center;"> DongJoo Kim </p>
-
-### <p style="text-align:center;"> Dongguk University, Korea </p>
-
-### <p style="text-align:center;"> `hepheir@gmail.com` </p>
-
----
-
-## <p style="text-align:center;"> Abstract </p>
+## Abstract
 
 Student Researcher of *Dongguk Univ*, majoring *Electronics and Information Communication Engineering*.
 
