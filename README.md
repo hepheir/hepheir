@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+## 소개
 
-Hello :)
+안녕하세요, 김동주입니다.
+
+Hello, my name is Dong-Joo Kim.
+
+연구자 겸 개발자입니다.
 
 ---
 
@@ -27,3 +31,8 @@ Student Researcher of *Dongguk Univ*, majoring *Electronics and Information Comm
 
 | 김동주 | Student Researcher | Dongguk Univ. |
 | --- | --- | --- |
+
+
+[![Hepheir's github stats](https://github-readme-stats.vercel.app/api?username=hepheir)](https://github.com/sgc109/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hepheir)](https://solved.ac/hepheir)
