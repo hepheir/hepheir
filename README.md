@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hepheir.github.io/)](https://hepheir.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hepheir@gmail.com)](mailto:hepheir@gmail.com)
+
 ## 소개
 
 안녕하세요, 김동주입니다.
