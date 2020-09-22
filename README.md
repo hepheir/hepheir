@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hepheir.github.io/)](https://hepheir.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hepheir@gmail.com)](mailto:hepheir@gmail.com)
 
+[![Hepheir's github stats](https://github-readme-stats.vercel.app/api?username=hepheir)](https://github.com/sgc109/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hepheir)](https://solved.ac/hepheir)
+
 ## 소개
 
 안녕하세요, 김동주입니다.
@@ -34,7 +37,3 @@ Student Researcher of *Dongguk Univ*, majoring *Electronics and Information Comm
 
 | 김동주 | Student Researcher | Dongguk Univ. |
 | --- | --- | --- |
-
-
-[![Hepheir's github stats](https://github-readme-stats.vercel.app/api?username=hepheir)](https://github.com/sgc109/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hepheir)](https://solved.ac/hepheir)
