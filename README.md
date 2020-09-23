@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 [![Hepheir's github stats](https://github-readme-stats.vercel.app/api?username=hepheir)](https://github.com/hepheir)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hepheir)](https://solved.ac/hepheir)
 
+<!--
 ## 소개
 
 안녕하세요, 김동주입니다.
@@ -28,6 +29,8 @@ Hello, my name is Dong-Joo Kim.
 연구자 겸 개발자입니다.
 
 ---
+
+-->
 
 ## Abstract
 
