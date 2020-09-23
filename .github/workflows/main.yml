@@ -1,0 +1,19 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  renew badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Renew
+        run: curl -X PURGE {"https://camo.githubusercontent.com/1e225765d0e31c1ea46460fccb037bfc454f68a7/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d68657068656972"}
