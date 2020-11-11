@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- GitHub Readme Stats @ https://github.com/anuraghazra/github-readme-stats -->
 [![card/github/stats](https://github-readme-stats.vercel.app/api?username=hepheir&include_all_commits=true&show_icons=true&icon_color=424242)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). -->
-[![card/github/top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hepheir&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![card/github/top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hepheir&layout=compact&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 [![asset/solved.ac-stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=hepheir)](https://solved.ac/hepheir)
 
@@ -44,7 +44,3 @@ Student Researcher of *Dongguk Univ*, majoring *Electronics and Information Comm
 
 | 김동주 | Student Researcher | Dongguk Univ. |
 | --- | --- | --- |
-
-[![card/github/repo2](https://github-readme-stats.vercel.app/api/pin/?username=DGU-DAI-Lab&repo=Giwa-Damage-Detector-demo&show_owner=true)](https://github.com/DGU-DAI-Lab/Giwa-Damage-Detector-demo)
-[![card/github/repo2](https://github-readme-stats.vercel.app/api/pin/?username=DGU-DAI-Lab&repo=Detect-of-Brick-Cracktion-on-CheomSeongDae&show_owner=true)](https://github.com/DGU-DAI-Lab/Detect-of-Brick-Cracktion-on-CheomSeongDae)
-[![card/github/repo2](https://github-readme-stats.vercel.app/api/pin/?username=DGU-DAI-Lab&repo=Artifact-Mapping-from-3D-Scanning&show_owner=true)](https://github.com/DGU-DAI-Lab/Artifact-Mapping-from-3D-Scanning)
