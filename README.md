@@ -46,6 +46,7 @@ Student Researcher of *Dongguk Univ*, majoring *Electronics and Information Comm
 [link/mail]: mailto:hepheir@gmail.com
 [badge/mail]: https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white
 
+<!-- GitHub Stats -->
 [link/github-stats]: https://github.com/anuraghazra/github-readme-stats
 [card/github-stats]: https://github-readme-stats.vercel.app/api?username=hepheir&include_all_commits=true&show_icons=true&icon_color=424242
 [card/github-stats/top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=hepheir&layout=compact&langs_count=10&card_width=445
