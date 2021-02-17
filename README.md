@@ -43,7 +43,7 @@
 <!-- References -->
 
 [link/blog]: https://hepheir.tistory.com/
-[badge/blog]: asset/tistory-logo.jpg
+[badge/blog]: asset/tistory-logo-small.jpg
 
 [link/mail]: mailto:hepheir@gmail.com
 [badge/mail]: https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white
