@@ -1,43 +1,15 @@
-## Blog
-
-[![Hepheir's GitHub Blog][badge/blog]][link/blog]
-
 ## Abstract
 
 * Former Student Researcher of *Dongguk Univ*, majoring *Electronics and Information Communication Engineering*.
 
 ---
 
+[![Hepheir's most used languages][card/github-stats/top-langs]][link/github-stats]
+
 [![Hepheir's GitHub Stats][card/github-stats]][link/github-stats]
 
----
+[![BOJ - Hepheir's Rank powered by Solved.ac][card/boj-rank]][link/boj-user]
 
-<details>
-  <summary>🌟 <b>Languages</b></summary><p></p>
-  
-  [![Hepheir's most used languages][card/github-stats/top-langs]][link/github-stats]
-</details>
-
-
-<details>
-  <summary>💻 <b>Problem Solvings</b></summary><p></p>
-  
-  ## BAEKJOON Online Judge
-
-  [![BAEKJOON Online Judge - Hepheir's Profile][badge/boj-user]][link/boj-user]
-  <br>
-  [![BOJ - Hepheir's Rank powered by Solved.ac][card/boj-rank]][link/boj-user]
-
-  ## 경력
-
-  * **CPS Festival 2020**
-    - 본선 진출
-      [<sup>대학일반부 8팀 - 거기에있는</sup>](https://cpsfestival.org/community/sub_01.php?mode=view&bcategory=notice&keyfield=&key=&page=1&idx=1141)
-  
-  * **Facebook Hacker Cup 2020**
-    - Qualification Round: 6,590th <sup>out of 32,699</sup>
-    - Round 1: 2,210th <sup>out of 13,820</sup>
-</details>
 
 
 <!-- References -->
