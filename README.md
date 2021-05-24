@@ -8,6 +8,8 @@
 
 [![Hepheir's most used languages][card/github-stats/top-langs]][link/github-stats]
 
+---
+
 <details>
   <summary> More </summary>
   <p></p>
