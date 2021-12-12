@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHepheir&count_bg=%23DA85FD&title_bg=%233D3D3D&icon=&icon_color=%23E7E7E7&title=%E2%98%86+hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ## Abstract
 
 * Former Student Researcher of *Dongguk Univ*, majoring *Electronics and Information Communication Engineering*.
