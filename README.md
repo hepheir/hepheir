@@ -13,4 +13,6 @@ gantt
     dateFormat  YYYY-MM-DD
 
     section 개인 프로젝트
+
+    section 협업 프로젝트
 ```
