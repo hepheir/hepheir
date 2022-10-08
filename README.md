@@ -14,6 +14,7 @@ gantt
     axisFormat %Y
 
     section 개인 프로젝트
+    [개발] 개인용 웹 드라이브 서비스 - "Self Cloud Server" : done, 2016-09-01, 2018-03-02
 
     section 협업 프로젝트
 
