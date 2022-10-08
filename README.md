@@ -11,4 +11,6 @@ Gantt diagram syntax:
 gantt
     title 프로젝트 활동
     dateFormat  YYYY-MM-DD
+
+    section 개인 프로젝트
 ```
