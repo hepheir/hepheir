@@ -23,6 +23,7 @@ gantt
     [개발] 개인용 웹 드라이브 서비스 - "Self Cloud Server" : done, 2016-09-01, 2018-03-02
 
     section 협업 프로젝트
+    [개발] 간단한 티케팅 서비스 - "MMC Ticketing Service" <기획 & 개발> : done, 2016-03-29, 2016-12-18
 
     section 연구 활동
 ```
