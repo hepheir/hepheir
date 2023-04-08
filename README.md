@@ -1,5 +1,3 @@
-[![Hepheir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hepheir&include_all_commits=true&show_icons=true&icon_color=424242)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 Gantt diagram syntax:
 
@@ -33,10 +31,6 @@ gantt
     section 연구 활동
 ```
 -->
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hepheir)](https://solved.ac/hepheir)
-
----
 
 ## Education
 
@@ -81,6 +75,11 @@ gantt
 
 -   고배 유물 도면 자동 생성 모델의 투창 영역 윤곽선 검출 개선 <sub>2019, [riss.kr](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=3095fa2e4ad9a57be9810257f7042666&keyword=유물%20도면%20생성)</sub>
 -   유물 도면 생성 자동화 영상처리 S/W 개발 <sub>2019, [riss.kr](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=8e583680cbd4df477ecd42904f0c5d65&keyword=유물%20도면%20생성)</sub>
+
+---
+
+[![Hepheir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hepheir&include_all_commits=true&show_icons=true&icon_color=424242)](https://github.com/anuraghazra/github-readme-stats)
+[![hepheir's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hepheir)](https://solved.ac/profile/hepheir)
 
 <!-- https://github.com/Ileriayo/markdown-badges#markdown-badges -->
 
